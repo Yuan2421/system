@@ -16,7 +16,7 @@
 <body>
 <div class="login-container">
         <div class="login-logo">
-            <img src="img/logo.png" alt="Logo">
+            <img src="./img/logo.png" alt="Logo">
             <span class="logo-text">ACLC College of Ormoc City, Inc.<br>Lilia Ave., Cogon, Ormoc City</span>
         </div>
         <form action="#" class="login-form">
